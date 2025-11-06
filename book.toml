@@ -1,0 +1,13 @@
+[book]
+authors = ["Abinash Sahoo"]
+language = "en"
+src = "src"
+title = "Rawph Docs"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/implabinash/docs"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
