@@ -5,6 +5,7 @@
 - [Things To Consider](./twitter/things_to_consider.md)
 - [Post Examples](./twitter/post_examples.md)
 - [Prompts](./twitter/prompts.md)
+- [Schedule](./twitter/schedule.md)
 
 # Reddit
 
